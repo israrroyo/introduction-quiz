@@ -11,7 +11,7 @@ archivo = sys.argv[1]
 #puerto = sys.argv[3]
 #idelastic = sys.argv[4]
 
-url = 'http://10.110.70.41:9200/graduates/quiz1/?pretty'
+url = 'http://10.110.70.148/graduates/quiz1/?pretty'
 
 
 
