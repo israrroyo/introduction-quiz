@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "un servicio que se ofrece en la nube, que cuenta con herramientas y utilidades para el almacenar, procesar y visualizar los datos"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "se refiere a que en big data podemos manipular distintos tipos de datos como texto, imagenes, videos, logs, etc."
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "raw data, tidy data set, code book y una explicación exacta para cumplir con los pasos del proceso"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "json, csv, tsv, xml y  parquet"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "extracción de datos desde una pagina web, esto se realiza obteniendo los valores existentes en una etiqueta html"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "este proceso consiste extraer, unir y presentar los datos de forma unificada"
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "el procesamiento de datos consiste en colectar y manipular los datos con distintas herramientas, esto para generar mejores estructuras y datos mas representativos "
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "clean, trasnsform, merge, reshape"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "clean, trasnsform, merge, reshape"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "un servicio que se ofrece en la nube, donde el  proveedor del servicio administra ciertas responsabilidades relacionadas a la gestion de datos como (almacenamiento de datos, respaldos y  seguridad) "
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "un servicio que se ofrece en la nube, donde se proporcina acceso a una base de datos montada en la nube, para el almacenamiento de datos de la aplicaciones"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "consiste en analizar un conjunto de datos previamente almacenados, utilizando diversas herramientas, esto resulta de gran importancia para la toma de desiciones, predecir resultados y generar conclusiones."
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "retención, adquicisión y utilización"
+		}
+	]	
+}

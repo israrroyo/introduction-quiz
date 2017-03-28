@@ -1,15 +1,18 @@
 
 import json
-from pprint import pprint
+import pprint
 import requests
 import sys
 import simplejson as json
 
-url = 'http://127.0.0.1:8081'
-
-
 
 archivo = sys.argv[1]
+ip = sys.argv[2]
+puerto = sys.argv[3]
+
+url = 'http://' + ip + ':' + puerto
+
+
 
 json_data=open(archivo)
 data = json.load(json_data)
